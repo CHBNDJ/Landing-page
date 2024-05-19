@@ -526,8 +526,7 @@ footer img {
         width: 58px;
         position: initial;
         display: flex;
-        justify-content: flex;
-        justify-content: center;
+        justify-content: center ;
         align-items: center;
         text-align: center;
         flex-direction: column;
